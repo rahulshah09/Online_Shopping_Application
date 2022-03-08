@@ -1,0 +1,140 @@
+{
+  "product": [
+    {
+      "categoryId": 5,
+      "productName": "Rose-1",
+      "description": "description here",
+      "rating": "5",
+      "price": "200",
+      "productImg": "http://localhost:4200/assets/pics/rose-7.jpg",
+      "isAvailable": 1,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "productName": "Rose-2",
+      "categoryId": 3,
+      "description": "description here",
+      "price": 500,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/pics/rose-2.jpg",
+      "rating": 5,
+      "review": 170,
+      "vendor_name": "Nike shop",
+      "warranty": 1
+    },
+    {
+      "id": 3,
+      "productName": "Rose-3",
+      "categoryId": 4,
+      "description": "description here",
+      "price": 600,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/pics/rose-3.jpg",
+      "rating": 3,
+      "review": 750,
+      "vendor_name": "Astar shop",
+      "warranty": 1
+    },
+    {
+      "id": 4,
+      "productName": "Rose-4",
+      "categoryId": 1,
+      "description": "description here",
+      "price": 200,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/pics/rose-8.jpg",
+      "rating": 3,
+      "review": 750,
+      "vendor_name": "Astar shop",
+      "warranty": 1
+    },
+    {
+      "id": 5,
+      "productName": "Rose-5",
+      "categoryId": 1,
+      "description": "description here",
+      "price": 100,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/pics/rose-9.jpg",
+      "rating": 5,
+      "review": 750,
+      "vendor_name": "Astar shop",
+      "warranty": 1
+    },
+    {
+      "id": 6,
+      "productName": "Rose-6",
+      "categoryId": 2,
+      "description": "description here",
+      "price": 300,
+      "is_available": true,
+      "productImg": "http://localhost:4200/assets/pics/rose-10.jpg",
+      "rating": 4,
+      "review": 750,
+      "vendor_name": "Astar shop",
+      "warranty": 1
+    },
+    {
+      "id": 112,
+      "categoryId": "2",
+      "productName": "Laptop",
+      "description": "Dell High Performance laptop",
+      "rating": "5",
+      "price": "500",
+      "productImg": "http://localhost:4200/assets/pics/rose-7.jpg",
+      "isAvailable": 1,
+      "color": "Green",
+      "reviews": "2"
+    },
+    {
+      "id": 102,
+      "categoryId": "3",
+      "productName": "Mobile",
+      "description": "Apple Iphone 13",
+      "rating": "4",
+      "price": "800",
+      "productImg": "",
+      "isAvailable": 1,
+      "color": "Black",
+      "reviews": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "Men"
+    },
+    {
+      "id": 3,
+      "categoryName": "Women"
+    },
+    {
+      "id": 4,
+      "categoryName": "Home & Furniture"
+    },
+    {
+      "id": 5,
+      "categoryName": "Baby & Kids"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
